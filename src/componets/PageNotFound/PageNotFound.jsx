@@ -1,9 +1,9 @@
-function Header() {
+function PageNotFound() {
   return (
     <>
-      <h1>Sorry this page wasnt found</h1>
+      <h1>Sorry this page wasnt found :Z</h1>
     </>
   );
 }
 
-export default Header;
+export default PageNotFound;
